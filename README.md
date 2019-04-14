@@ -1,4 +1,4 @@
-# Basic Machine Learning Tutorials for Beginners
+# Machine Learning Tutorials for Beginners
 
 - Tool : Tensorflow
 - OS : Windows 10
